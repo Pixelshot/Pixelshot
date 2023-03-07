@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I've been programming on and off for about 10 years now. After completing bootcamp in 2015, I went back to my old job but never really steered away from coding as I truly enjoy it
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
-* 🚀  I'm currently working on [a collaboration project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30)
+* 🚀  I'm currently working on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30)
 * 🧠  I'm learning Remix.run
 
 ### Skills
