@@ -53,6 +53,6 @@ I've been programming on and off for about 10 years now. After completing bootca
   <img src="https://profile-counter.glitch.me/pixelshot/count.svg?"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/pixelshot/pixelshot/blob/output/snake.svg" alt="Snake animation" />
+![Snake workflow](https://github.com/Pixelshot/Pixelshot/blob/output/snake.svg)
 
 ###
