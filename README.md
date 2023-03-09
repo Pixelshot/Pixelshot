@@ -5,7 +5,7 @@ I've been programming on and off for about 10 years now. After completing bootca
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * 🚀  I'm currently working on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30)
-* 🧠  I'm learning [Remix.run](https://remix.run/)
+* 🧠  I'm presently going through [Remix.run](https://remix.run/)
 
 ### Skills
 
