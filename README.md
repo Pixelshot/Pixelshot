@@ -1,7 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hazri and I am a Web Developer
-======================================================================================================================================================
-
-I've been programming on and off for about 10 years now. After completing bootcamp in 2015, I went back to my old job but never really steered away from coding as I truly enjoy it
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hazri and I'm a web developer who is dedicated to continuous learning and finding innovative solutions to complex problems.
+===================================================================================================================================================================================================================================================
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
 * 🚀  At present, I'm working on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30)
