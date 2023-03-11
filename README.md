@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================================================================================================================================
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
-* 🚀  At present, I'm working on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30?target=_blank)
+* 🚀  At present, I'm working on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30/?target=_blank)
 * 🧠  I'm also currently building applications with [Remix.run](https://remix.run/?target=_blank)
 
 ### Skills
