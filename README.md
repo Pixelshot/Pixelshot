@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hazri and I'm a web developer who is dedicated to continuous learning and finding innovative solutions to complex problems.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hazri and I'm a web developer who is dedicated to continuous learning and finding innovative solutions to complex problems
 ===================================================================================================================================================================================================================================================
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
