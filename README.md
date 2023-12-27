@@ -2,8 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================================================================================================================================
 
 * 🌍  I'm based in Kuala Lumpur, Malaysia
-* 🚀  At present, I'm working on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30/)
-* 🧠  I'm also currently building applications with [Remix.run](https://remix.run/)
+* ✅  Worked on [a collaborative project with developers from other countries](http://github.com/chingu-voyages/v43-tier3-team-30/)
+* ✅  Built a couple of projects with [Remix.run](https://remix.run/):
+  * [eCalendar Application](https://github.com/Pixelshot/ecalendar-vercel)
+  * [Expense Application](https://github.com/Pixelshot/expense-app)
+* 🧠  I'm presently immersed in deepening my knowledge of [TypeScript](https://www.typescriptlang.org/)
+* 🚀  I'm also in the process of learning by constructing small applications with [Next.js](https://nextjs.org/).
 
 ### Skills
 
