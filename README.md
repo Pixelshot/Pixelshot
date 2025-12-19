@@ -16,3 +16,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <a href="https://www.github.com/pixelshot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hazri-jordan-ahazri8/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=pixelshot&show_icons=true&theme=tokyonight)
+
+<img src="https://komarev.com/ghpvc/?username=Pixelshot&label=Profile%20Views&color=blue&style=flat" />
