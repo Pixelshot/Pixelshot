@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   * [Expense Application](https://github.com/Pixelshot/expense-app)
   
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,anaconda,androidstudio,astro,babel,bash,bootstrap,cpp,clion,cmake,docker,express,git,github,idea,java,linux,md,mongodb,neovim,nextjs,nginx,nodejs,npm,postgres,postman,prisma,py,rails,react,redis,regex,remix,ruby,sqlite,supabase,sentry,tailwind,ts,vercel,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,anaconda,androidstudio,astro,babel,bash,bootstrap,cpp,clion,cmake,docker,express,git,github,idea,java,linux,md,mongodb,neovim,nextjs,nginx,nodejs,npm,postgres,postman,prisma,py,rails,react,redis,regex,remix,ruby,sqlite,supabase,sentry,tailwind,ts,vercel,vscode,vim)](https://skillicons.dev)
 
 ### Socials
 
